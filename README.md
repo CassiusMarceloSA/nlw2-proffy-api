@@ -12,7 +12,7 @@ Clonar o repositório
 
     # Instalar as dependencias
 
-    $ yarn install
+    $ yarn
 
     # Inicializar a aplicação
 
